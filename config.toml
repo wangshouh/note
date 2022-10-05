@@ -1,5 +1,6 @@
 baseURL = "https://kb.wongssh.cf/"
-languageCode = "en-us"
+languageCode = "zh-cn"
+googleAnalytics = "G-6PCHC9GYZS"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
