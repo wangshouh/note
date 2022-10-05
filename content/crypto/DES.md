@@ -12,13 +12,10 @@ tags:
 
 上述步骤可用文字表述如下:
 
-1. 明文 $x$ 首先进入[初始置换](concept/ip.md) $IP(x)$
+1. 明文 $x$ 首先进入 [初始置换](crypto/concept/ip) $IP(x)$
 
 上述结构被称为`Feistel 网络`，其数学表达形式如下:
-$$
-L_i = R_{i-1}
-R_i = L_{i-1} \oplus f(R_{i-1}, k_i)
-$$
+$$L_i = R_{i-1} $$
+$$R_i = L_{i-1} \oplus f(R_{i-1}, k_i)$$
 
 其中，各参数的含义均可以在`Ferstel 网络`的结构图中获得。
-
