@@ -1,4 +1,4 @@
-baseURL = "http://kb.wongssh.cf/"
+baseURL = "https://kb.wongssh.cf/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
