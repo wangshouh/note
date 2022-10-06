@@ -11,4 +11,4 @@ enableToc: false
 
 根节点列表:
 
-- [密码学](crypto/index.md)
+- [密码学](crypto/root.md)
