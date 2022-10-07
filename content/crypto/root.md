@@ -6,7 +6,7 @@ tags:
 
 本文为密码学根节点，包含以下内容:
 
-- [DES](crypto/DES.md)
+- [[crypto/DES|DES]]
 - AES
 - RSA
 
