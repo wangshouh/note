@@ -6,5 +6,5 @@
 其过程可以使用下图简单的进行表示：
 下表给出了初始置换 $IP$ 的映射表格：
 58 50 42 34 26 18 10 2 60 52 44 36 28 20 12 4 62 54 46 38 30 22 14 6 64 56 48 40 32 24 16 8 57 49 41 33 25 17 9 1 59 51 43 35 27 19 11 3 61 53 45 37 29 21 13 5 63 55 47 39 31 23 15 7 此映射表格从左至右、从上至下，依次表示每一个位对于的置换后的位置。假如我们需要置换第 10 位，我们可以简单的数表格，得到第 10 位应当置换到第 52 位。</description></item><item><title>密码学根节点</title><link>https://kb.wongssh.cf/crypto/root/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kb.wongssh.cf/crypto/root/</guid><description>本文为密码学根节点，包含以下内容:
-DES AES RSA 本节点在写作过程中，主要参考了以下书目:
+[[crypto/DES|DES]] AES RSA 本节点在写作过程中，主要参考了以下书目:
 《深入浅出密码学》 《图解密码学技术》</description></item></channel></rss>
