@@ -13,6 +13,7 @@ title: "S-盒"
 ![S Box](https://img.gejiba.com/images/b586f43ca9d6a3b70195f0c7da971c86.png)
 
 > [!example]
+> 
 >  假如推入 $s_1$ 盒的数据为`100101` ，请读者自行查询其输出值
 >  
 >  正确结果应该为 `1000`
@@ -20,6 +21,7 @@ title: "S-盒"
 完整的 S-盒 表格，读者可自行前往[维基百科](https://en.wikipedia.org/wiki/DES_supplementary_material#Substitution_boxes_(S-boxes))查询。
 
 > [!info]
+> 
 > S-盒 的设计思路是不明确的，所以很多人认为NSA可能在其中设计了秘密后门。
 > 但 S-盒 可以帮助 DES 阻挡很多高级数学攻击，比如差分密码分析等
 > S-盒 也引入了重要的非线性的特性，即：
