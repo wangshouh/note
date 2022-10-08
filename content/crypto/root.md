@@ -7,7 +7,7 @@ tags:
 本文为密码学根节点，包含以下内容:
 
 - [[crypto/DES|DES]]
-- AES
+- [[crypto/AES|AES]]
 - RSA
 
 本节点在写作过程中，主要参考了以下书目:
